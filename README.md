@@ -3,7 +3,9 @@
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 
 
-📫 How to reach me: jonathanxu.cs@gmail.com
+📫 jonathanxu.cs@gmail.com
+💬 https://www.linkedin.com/in/jonathanxuu/
+📍 Palo Alto, CA
 
 <!--
 **JonathanXu8/JonathanXu8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
