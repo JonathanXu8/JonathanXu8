@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hi, I'm Jonathan!
+
+- 😄 Pronouns: he/him
+- 🔭 I’m currently working on ...
+- 📫 How to reach me: jonathanxu.cs@mgmail.com
 
 <!--
 **JonathanXu8/JonathanXu8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
